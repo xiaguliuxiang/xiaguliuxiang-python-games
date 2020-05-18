@@ -3,6 +3,7 @@
 ## 项目列表
 * [天猫双11合伙人全民开喵铺](https://github.com/xiaguliuxiang/xiaguliuxiang-python-games/blob/master/tmall/tmall-1111.py)
 * [ShowDoc 接口抓取](https://github.com/xiaguliuxiang/xiaguliuxiang-python-games/blob/master/showdoc/showdoc.py)
+* [Python3 Send Mail](https://github.com/xiaguliuxiang/xiaguliuxiang-python-games/blob/master/send_mail/send_mail.py)
 
 ### 关于
 * [侠骨留香](https://github.com/xiaguliuxiang)
